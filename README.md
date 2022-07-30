@@ -10,3 +10,7 @@ If you'll want to test the app:
 4. run $ rails s
 
 you might also need $ gem install flickr
+
+Preview
+
+![Project preview](./app/assets/images/preview.png)
